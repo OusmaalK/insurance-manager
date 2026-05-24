@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/ia-settings/page": "app/admin/ia-settings/page.js",
+  "/admin/ia-settings/[id]/page": "app/admin/ia-settings/[id]/page.js"
+}
